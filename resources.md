@@ -5,6 +5,9 @@ Resources
  * <https://gist.github.com/768272>
  * <http://nadiana.com/pil-tutorial-how-create-button-generator>
  * http://beej.us/blog/data/javascript-prototypes-inheritance/
+ * http://www.crockford.com/javascript/inheritance.html
+ * http://ejohn.org/blog/simple-javascript-inheritance/
+ * http://www.adequatelygood.com/2010/3/JavaScript-Module-Pattern-In-Depth
 
 Image Manipulation
 ------------------
